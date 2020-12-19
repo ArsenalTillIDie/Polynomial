@@ -1,0 +1,5 @@
+C:/Users/orlov/OneDrive/Documents/Дистанционное обучение/Яимп/List/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/orlov/OneDrive/Documents/Дистанционное обучение/Яимп/List/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/orlov/OneDrive/Documents/Дистанционное обучение/Яимп/List/build/include/CMakeFiles/list.dir
+C:/Users/orlov/OneDrive/Documents/Дистанционное обучение/Яимп/List/build/gtest/CMakeFiles/gtest.dir
+C:/Users/orlov/OneDrive/Documents/Дистанционное обучение/Яимп/List/build/test/CMakeFiles/test_list.dir
